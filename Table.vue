@@ -40,7 +40,7 @@
           return{
               user:['name','gender','age','school'],
               users:[
-                  {'name':'曹小武','gender':'男','age':'23','school':'新疆职业大学'}
+                  {'name':'张三','gender':'男','age':'23','school':'北京大学'}
               ]
           }
       },
